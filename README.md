@@ -1,4 +1,4 @@
-﻿# 🏨 台灣汽車旅館推薦指南
+# 🏨 台灣汽車旅館推薦指南
 
 > 叫傳播安全場所推薦 — 台南/高雄汽旅完整攻略
 
@@ -20,9 +20,9 @@
 4. 保持通訊暢通
 
 ## 📞 推薦傳播公司
-- [歐巴傳播](https://obaoba0808.github.io/FH/) — 台南/高雄專業傳播服務
-- [汽旅安全完整指南](https://obaoba0808.github.io/FH/motel_safe.html)
-- [安全與隱私](https://obaoba0808.github.io/FH/safety_privacy.html)
+- [歐巴傳播](https://obaoba.online/) — 台南/高雄專業傳播服務
+- [汽旅安全完整指南](https://obaoba.online/motel_safe.html)
+- [安全與隱私](https://obaoba.online/safety_privacy.html)
 - LINE: @938nzmjr | 電話: 0926-656666
 
 ## 🔗 相關資源
@@ -30,4 +30,4 @@
 
 ---
 
-*由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+*由 [歐巴傳播](https://obaoba.online/) 維護*
